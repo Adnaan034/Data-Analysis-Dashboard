@@ -85,7 +85,8 @@ Strategic discounting is more effective than blanket discounts. By analyzing pro
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard-image.png)
+![Dashboard Preview][Cover Page](https://github.com/user-attachments/assets/b0213aa1-5691-4b8a-83c6-0df836eacda1)
+
 
 ---
 
