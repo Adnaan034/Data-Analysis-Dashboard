@@ -97,10 +97,4 @@ Strategic discounting is more effective than blanket discounts. By analyzing pro
 *Aspiring Data Analyst | Power BI Enthusiast*
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/adnaan-shaikh-6700bb310 ) 
-📫 Contact: shaikhadnaan@gmail.com
-
----
-
-## 📌 Note
-
-This dashboard was created for learning and portfolio purposes. All data used is dummy/simulated.
+📫 Contact: shaikhadnaan034@gmail.com
